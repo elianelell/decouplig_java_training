@@ -1,0 +1,25 @@
+2021-12-06 10:46:18.794 simulation Bravo !:63
+2021-12-06 10:46:18.812 simulation duration: 0:0:93
+2021-12-06 10:46:36.076 simulation Perdu:0
+2021-12-06 10:46:36.091 simulation duration: 0:0:86
+2021-12-06 10:49:17.719 simulation Perdu:0
+2021-12-06 10:49:17.727 simulation duration: 0:0:40
+2021-12-06 10:54:44.999 simulation Perdu:0
+2021-12-06 10:54:45.014 simulation duration: 0:0:45
+2021-12-06 10:59:23.508 simulation Perdu:0
+2021-12-06 10:59:23.524 simulation duration: 0:0:55
+2021-12-06 10:59:49.404 simulation Perdu:0
+2021-12-06 10:59:49.420 simulation duration: 0:0:79
+2021-12-06 11:02:12.160 simulation Perdu:0
+2021-12-06 11:02:12.175 simulation duration: 0:0:72
+2021-12-06 11:03:31.213 simulation Debut de la partie
+2021-12-06 11:03:37.982 simulation Temps : 00:00.000
+2021-12-06 11:05:44.828 simulation Debut de la partie
+2021-12-06 11:05:51.321 simulation Temps : 00:00.000
+2021-12-06 11:13:12.154 simulation Debut de la partie
+2021-12-06 11:13:30.436 simulation Debut de la partie
+2021-12-06 11:13:30.476 simulation Felicitation Vous avez win Age du capitaine : 2
+2021-12-06 11:13:30.539 simulation Temps : 00:00.031
+2021-12-06 11:13:36.950 simulation Debut de la partie
+2021-12-06 11:13:36.970 simulation Felicitation Vous avez win Age du capitaine : 2
+2021-12-06 11:13:37.006 simulation Temps : 00:00.015
